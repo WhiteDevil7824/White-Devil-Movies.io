@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+ }
+ nav{
+     padding: 210px;
+     height: 2100px;
+     background-color: black;
+ }
+ div{
+     padding: 30px;
+     height: 50px;
+     float: right;
+ }
+ button{
+     padding: 10px;
+     border-radius: 10px;
+     font-style: italic;
+     margin-right: 30;
+     background-color:red;
+ } 
